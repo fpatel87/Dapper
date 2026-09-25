@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpAssignment\\Dapper\\eshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\repositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\repositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\eshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\eshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|c:\\csharpassignment\\dapper\\eshop\\eshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951F54B3-7F0C-60F3-C94B-9553209FBEC7}|eshop\\eshop.csproj|solutionrelative:eshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Program.cs",
+              "RelativeDocumentMoniker": "eshop\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Program.cs",
+              "RelativeToolTip": "eshop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:08:40.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "eshop\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Services\\ReviewService.cs",
+              "RelativeToolTip": "eshop\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:57:28.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Services\\IReviewService.cs",
+              "RelativeDocumentMoniker": "eshop\\Services\\IReviewService.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Services\\IReviewService.cs",
+              "RelativeToolTip": "eshop\\Services\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:56:40.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "eshop\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "eshop\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:48:39.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Repositories\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "eshop\\Repositories\\IReviewRepository.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Repositories\\IReviewRepository.cs",
+              "RelativeToolTip": "eshop\\Repositories\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T04:47:18.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "eshop\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "eshop\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:13:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\appsettings.json",
+              "RelativeDocumentMoniker": "eshop\\appsettings.json",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\appsettings.json",
+              "RelativeToolTip": "eshop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-14T04:52:48.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "eshop\\Models\\Review.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Models\\Review.cs",
+              "RelativeToolTip": "eshop\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:20:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "eshop.csproj",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\eshop.csproj",
+              "RelativeDocumentMoniker": "eshop\\eshop.csproj",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\eshop.csproj",
+              "RelativeToolTip": "eshop\\eshop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T03:15:13.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "eshop\\WeatherForecast.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\WeatherForecast.cs",
+              "RelativeToolTip": "eshop\\WeatherForecast.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:12:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "eshop\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Dapper\\eshop\\eshop\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "eshop\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:12:52.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
